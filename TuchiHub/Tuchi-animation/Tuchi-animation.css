@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tuchi-video{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    width: fit-content;
+    height: 100vh;
+}
+.tuchi{
+    width: 100vh;
+    height: 100vh;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.holy-moly{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 255, 255, 0);
+    width: auto;
+    margin-left: 90px;
+}
